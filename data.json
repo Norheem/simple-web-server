@@ -1,0 +1,15 @@
+[
+{
+  "name" : "Ademola Lookman",
+  "age" : 27,
+  "city" : "Atlanta"
+}, {
+  "name" : "Victor Osimhen",
+  "age" : 25,
+  "city" : "Turkey"
+},
+  {"name" : "Victor Boniface",
+    "age" : 24,
+    "city" : "Munich"
+  }
+  ]
